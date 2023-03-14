@@ -1,9 +1,14 @@
 
 
 
-<h1 align="center">MouseMap</h1>
+<h1 align="center">MouseMap</h1><div align="center">
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/MouseMap" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/MouseMap" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/MouseMap" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/MouseMap" /></div>
 
 <h2>:hammer:Project Status:hammer:</h2>
+<p>Completed project</p>
 
 <h2>Project description</h2>
 <p>Single page, focused on knowledge of axes in css together with javascript, project made to work with the mouse axes and pass this information to the CSS, working together with javascript
