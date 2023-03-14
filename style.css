@@ -1,0 +1,25 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  position: relative;
+  background: url('cenario.jpg');
+  
+}
+
+
+span {
+  background-color: red;
+  border-radius: 100px;
+  position: absolute;
+  cursor: pointer;
+  background: url('./mario.png');
+  background-repeat: no-repeat;
+  background-size: 50px;
+  width: 50px;
+  height: 60px;
+}
+
+i{
+  opacity: 0;
+}
